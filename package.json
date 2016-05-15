@@ -1,0 +1,28 @@
+{
+  "name": "drupal-project-loader",
+  "version": "1.0.0",
+  "description": "Drupal project loader.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chi-teck/drupal-project-loader"
+  },
+  "main": "bin/start",
+  "keywords": [
+    "drupal"
+  ],
+  "author": "Chi-teck",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "colors": "^1.1.2",
+    "plural": "^0.2.0",
+    "progress": "^1.1.8",
+    "request": "^2.72.0",
+    "tar": "^2.2.1",
+    "winston": "^2.2.0",
+    "xml2js": "^0.4.16"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "GPL-2.0"
+}
