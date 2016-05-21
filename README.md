@@ -3,8 +3,9 @@
 Downloads the entire codebase for all Drupal projects.
 
 ## Installation
-
+```bash
 sudo npm install -g drupal-project-loader
+```
 
 ## Usage
 
