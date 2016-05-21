@@ -13,7 +13,11 @@
   "author": "Chi-teck",
   "dependencies": {
     "async": "^2.0.0-rc.4",
+    "cli-table": "^0.3.1",
     "colors": "^1.1.2",
+    "filesize": "^3.3.0",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
     "plural": "^0.2.0",
     "progress": "^1.1.8",
     "request": "^2.72.0",
