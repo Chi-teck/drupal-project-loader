@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/Chi-teck/drupal-project-loader"
   },
-  "main": "bin/start",
+  "bin": "bin/start",,
   "keywords": [
     "drupal"
   ],
