@@ -23,7 +23,7 @@ log-level | l | warn | Loging level.
 
 Example:
 ```bash
-drupal-project-loader --branch=7.x --type=module --destination=/tmp/d7-modules --yes --extract=0
+drupal-project-loader --branch=7.x --type=module --destination=/tmp/d7-modules --extract=0 --yes
 ```
 
 ## License
