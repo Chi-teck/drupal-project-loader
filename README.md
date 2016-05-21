@@ -12,7 +12,7 @@ sudo npm install -g drupal-project-loader
 Options:
 
 Long | Short | Default value |Description
-:----:|:-----:|:-------:|:-----------
+:----:|:-----:|:-------:|-----------
 branch| b | 8.x | Drupal API branch (6.x, 7.x, 8.x, etc).
 type  | t  | all  | Project type (module, theme, distirbution, etc).
 destination | d | ./drupal-codebase-[branch] | Path to which the projects will be copied.
