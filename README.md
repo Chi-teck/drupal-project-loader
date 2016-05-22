@@ -21,6 +21,7 @@ concurrency | c | 50 | Number of multiple requests to perform at a time.
 yes | y | 1 |  Assume 'yes' as answer to all prompts.
 log-level | l | warn | Loging level.
 version | v | 0 | Output the version number.
+timeout | m | 15000 | the number of milliseconds to wait for a server to send response headers.
 
 Example:
 ```bash
