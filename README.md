@@ -28,4 +28,4 @@ drupal-project-loader --branch=7.x --type=module --destination=/tmp/d7-modules -
 ```
 
 ## License
-GNU General Public License, version 2
+GNU General Public License, version 2.
