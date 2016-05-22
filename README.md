@@ -13,12 +13,12 @@ Options:
 
 Long | Short | Default value |Description
 :----:|:-----:|:-------:|-----------
-branch| b | 8.x | Drupal API branch (6.x, 7.x, 8.x, etc).
-type  | t  | module | Filter project by type (module, theme, distribution, etc). Pass "any" to load all project types.
+branch| b | 8.x | Drupal API branch (`6.x`, `7.x`, `8.x`, etc).
+type  | t  | module | Filter project by type (module, theme, distribution, etc). Pass `any` to load all project types.
 destination | d | ./drupal-codebase/[branch] | Path to which the projects will be copied.
 extract | e | true |  Whether or not the files should be extracted (uncompressed).
 concurrency | c | 50 | Number of multiple requests to perform at a time.
-yes | y | false |  Assume 'yes' as answer to all prompts.
+yes | y | false |  Assume "yes" as answer to all prompts.
 log-level | l | warn | Loging level.
 version | v | false | Output the version number.
 timeout | m | 15000 | The number of milliseconds to wait for a server to send response headers.
