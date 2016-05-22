@@ -1,6 +1,6 @@
 {
   "name": "drupal-project-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Drupal project loader.",
   "repository": {
     "type": "git",
