@@ -14,7 +14,7 @@ Options:
 Long | Short | Default value |Description
 :----:|:-----:|:-------:|-----------
 branch| b | 8.x | Drupal API branch (6.x, 7.x, 8.x, etc).
-type  | t  | module | Filter project by type (module, theme, distribution, etc). Pass to 'any' to load all project types.
+type  | t  | module | Filter project by type (module, theme, distribution, etc). Pass "any" to load all project types.
 destination | d | ./drupal-codebase/[branch] | Path to which the projects will be copied.
 extract | e | true |  Whether or not the files should be extracted (uncompressed).
 concurrency | c | 50 | Number of multiple requests to perform at a time.
