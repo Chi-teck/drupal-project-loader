@@ -18,7 +18,7 @@ type  | t  | all  | Project type (module, theme, distirbution, etc).
 destination | d | ./drupal-codebase-[branch] | Path to which the projects will be copied.
 extract | e | true |  Whether or not the files should be extracted (uncompressed).
 concurrency | c | 50 | Number of multiple requests to perform at a time.
-yes | y | true |  Assume 'yes' as answer to all prompts.
+yes | y | false |  Assume 'yes' as answer to all prompts.
 log-level | l | warn | Loging level.
 version | v | false | Output the version number.
 
