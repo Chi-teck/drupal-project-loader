@@ -20,6 +20,7 @@ extract | e | 1 |  Whether or not the files should be extracted (uncompressed).
 concurrency | c | 50 | Number of multiple requests to perform at a time.
 yes | y | 1 |  Assume 'yes' as answer to all prompts.
 log-level | l | warn | Loging level.
+version | v | 0 | Output the version number.
 
 Example:
 ```bash
