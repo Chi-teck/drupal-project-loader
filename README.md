@@ -27,6 +27,10 @@ Example:
 ```bash
 drupal-project-loader --branch=7.x --type=theme --destination=/tmp/d7-themes --extract=0 --yes
 ```
+## Runing in docker
+```bash
+docker run --rm -v $(pwd):/data -it attr/drupal-project-loader
+```
 
 ## License
 GNU General Public License, version 2.
